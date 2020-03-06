@@ -1,3 +1,2 @@
 # uni-assembly
-Project from the course in Assembly from uni
-The program encrypts and decrypts a string read from a file with 5 different encryptions
+Assembly only app which has multiple levels of string encryption and decryption using XOR, bit-shifting and other methods
